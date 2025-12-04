@@ -8,10 +8,10 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import the dataset from the CSV file and divide it into the independent feature (Hours) and the dependent target (Scores).
+2. Partition the data into training and testing subsets, then build a Linear Regression model using the training portion.
+3. Generate predictions for the test set using the trained model and compare them against the real scores.
+4. Visualize the regression line along with training and test points, and calculate evaluation metrics such as MAE, MSE, and RMSE
 
 ## Program:
 ```
